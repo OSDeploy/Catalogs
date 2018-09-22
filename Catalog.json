@@ -1,0 +1,36 @@
+[{
+    "Version":  "18.9.21",
+    "Catalogs": [{
+        "Catalog": "Adobe",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/Adobe.xml"
+        },
+        {
+        "Catalog": "Component",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/Component.xml"
+        },
+        {
+        "Catalog": "Cumulative",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/Cumulative.xml"
+        },
+        {
+        "Catalog": "Servicing",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/Servicing.xml"
+        },
+        {
+        "Catalog": "Setup",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/Setup.xml"
+        },
+        {
+        "Catalog": "LanguagePack",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/LanguagePack.xml"
+        },
+        {
+        "Catalog": "LanguageInterfacePack",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/LanguageInterfacePack.xml"
+        },
+        {
+        "Catalog": "LanguageFOD",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/LanguageFOD.xml"
+        }
+    ]
+}]
