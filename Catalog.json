@@ -2,35 +2,35 @@
     "Version":  "18.9.21",
     "Catalogs": [{
         "Catalog": "Adobe",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/Adobe.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Adobe.xml"
         },
         {
         "Catalog": "Component",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/Component.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Component.xml"
         },
         {
         "Catalog": "Cumulative",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/Cumulative.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Cumulative.xml"
         },
         {
         "Catalog": "Servicing",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/Servicing.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Servicing.xml"
         },
         {
         "Catalog": "Setup",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/Setup.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Setup.xml"
         },
         {
         "Catalog": "LanguagePack",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/LanguagePack.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/LanguagePack.xml"
         },
         {
         "Catalog": "LanguageInterfacePack",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/LanguageInterfacePack.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/LanguageInterfacePack.xml"
         },
         {
         "Catalog": "LanguageFOD",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Updates/LanguageFOD.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/LanguageFOD.xml"
         }
     ]
 }]
