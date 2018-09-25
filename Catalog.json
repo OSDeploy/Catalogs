@@ -2,35 +2,39 @@
     "Version":  "18.9.21",
     "Catalogs": [{
         "Catalog": "Adobe",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Adobe.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/CatAdobe.xml"
         },
         {
         "Catalog": "Component",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Component.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/CatComponent.xml"
         },
         {
         "Catalog": "Cumulative",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Cumulative.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/CatCumulative.xml"
         },
         {
         "Catalog": "Servicing",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Servicing.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/CatServicing.xml"
         },
         {
         "Catalog": "Setup",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/Setup.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/CatSetup.xml"
         },
         {
         "Catalog": "LanguagePack",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/LanguagePack.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/CatLanguagePack.xml"
         },
         {
         "Catalog": "LanguageInterfacePack",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/LanguageInterfacePack.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/CatLanguageInterfacePack.xml"
         },
         {
-        "Catalog": "LanguageFOD",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/LanguageFOD.xml"
+        "Catalog": "LanguageFeature",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/CatLanguageFeature.xml"
+        },
+        {
+        "Catalog": "FeatureOnDemand",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/Catalogs/master/CatFeatureOnDemand.xml"
         }
     ]
 }]
